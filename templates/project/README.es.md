@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="../../README.es.md"><img src="../../assets/header.svg" alt="M5Stack PaperMono Lab — ProfeTolocka" width="100%"></a>
+  <a href="../../README.es.md"><img src="../../assets/es/header.svg" alt="M5Stack PaperMono Lab — ProfeTolocka" width="100%"></a>
   <h1>Título del proyecto</h1>
   <p><a href="README.md">English</a> · <strong>Español</strong></p>
 </div>
@@ -55,3 +55,8 @@
 ---
 
 <p align="center"><strong>PROFE TOLOCKA</strong> · <a href="https://www.profetolocka.com.ar/">www.profetolocka.com.ar</a></p>
+
+
+## Organización de las imágenes
+
+Las infografías, capturas con texto y diagramas traducidos se guardan en [assets/es/](assets/es/). Sus equivalentes en inglés están en [assets/en/](assets/en/). Las fotografías, esquemas sin texto y recursos independientes del idioma van en [assets/shared/](assets/shared/). Usá el mismo nombre de archivo para ambas versiones traducidas.

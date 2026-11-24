@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="../../README.md"><img src="../../assets/header.svg" alt="M5Stack PaperMono Lab — ProfeTolocka" width="100%"></a>
+  <a href="../../README.md"><img src="../../assets/en/header.svg" alt="M5Stack PaperMono Lab — ProfeTolocka" width="100%"></a>
   <h1>Weather station</h1>
   <p><strong>English</strong> · <a href="README.es.md">Español</a></p>
 </div>
@@ -12,7 +12,7 @@
 
 Illustrative idea: display weather information on the PaperMono. No implementation or hardware compatibility is claimed.
 
-[Source code](src/) · [Images](assets/) · [Hardware](hardware/) · [Test data](data/)
+[Source code](src/) · [Images](assets/en/) · [Hardware](hardware/) · [Test data](data/)
 
 ## Introduction
 

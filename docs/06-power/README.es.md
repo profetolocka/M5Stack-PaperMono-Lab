@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="../../README.es.md"><img src="../../assets/header.svg" alt="M5Stack PaperMono Lab — ProfeTolocka" width="100%"></a>
+  <a href="../../README.es.md"><img src="../../assets/es/header.svg" alt="M5Stack PaperMono Lab — ProfeTolocka" width="100%"></a>
   <h1>Consumo energético y autonomía</h1>
   <p><a href="README.md">English</a> · <strong>Español</strong></p>
 </div>

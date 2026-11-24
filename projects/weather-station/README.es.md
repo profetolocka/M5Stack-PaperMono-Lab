@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="../../README.es.md"><img src="../../assets/header.svg" alt="M5Stack PaperMono Lab — ProfeTolocka" width="100%"></a>
+  <a href="../../README.es.md"><img src="../../assets/es/header.svg" alt="M5Stack PaperMono Lab — ProfeTolocka" width="100%"></a>
   <h1>Estación meteorológica</h1>
   <p><a href="README.md">English</a> · <strong>Español</strong></p>
 </div>
@@ -12,7 +12,7 @@
 
 Idea ilustrativa: mostrar información meteorológica en el PaperMono. No se afirma que exista una implementación ni que el hardware sea compatible.
 
-[Código fuente](src/) · [Imágenes](assets/) · [Hardware](hardware/) · [Datos de prueba](data/)
+[Código fuente](src/) · [Imágenes](assets/es/) · [Hardware](hardware/) · [Datos de prueba](data/)
 
 ## Introducción
 

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">M5Stack PaperMono Lab — ProfeTolocka</title><desc id="desc">Cabecera técnica azul y blanca de un repositorio de evaluación independiente.</desc>
+<defs><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#FFFFFF" stroke-opacity=".13" stroke-width="1"/></pattern></defs>
+<rect width="1200" height="300" rx="18" fill="#D1DEEF"/>
+<path d="M18 0H1182Q1200 0 1200 18V244H0V18Q0 0 18 0Z" fill="#0453F1"/>
+<path d="M790 0H1182Q1200 0 1200 18V244H790Z" fill="url(#grid)"/>
+<path d="M790 0V244M804 0V244" stroke="#FFFFFF" stroke-opacity=".22"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#FFFFFF">
+<text x="48" y="54" font-size="17" font-weight="700" letter-spacing="2.8">EVALUACIÓN INDEPENDIENTE DE HARDWARE</text>
+<text x="45" y="126" font-size="60" font-weight="700">M5Stack PaperMono</text>
+<text x="48" y="183" font-size="38" font-weight="400">Lab</text>
+<text x="49" y="218" font-size="19" fill="#D1DEEF">Documentación · Experimentos · Código · Proyectos</text>
+</g>
+<g transform="translate(876 29)">
+<rect x="0" y="0" width="238" height="188" rx="14" fill="#D1DEEF" stroke="#FFFFFF" stroke-width="2"/>
+<rect x="13" y="13" width="212" height="150" rx="4" fill="#FFFFFF"/>
+<g fill="#0453F1"><rect x="28" y="29" width="182" height="15" rx="2"/><rect x="28" y="57" width="96" height="8" rx="1"/><rect x="28" y="73" width="78" height="8" rx="1"/><rect x="28" y="89" width="88" height="8" rx="1"/><rect x="28" y="129" width="182" height="3"/></g>
+<g stroke="#0453F1" stroke-width="3" fill="none"><path d="M139 106V65H208" opacity=".4"/><path d="M145 99L159 82L175 90L189 69L207 77" stroke-linejoin="round" stroke-linecap="round"/></g>
+<circle cx="119" cy="175" r="4" fill="#0453F1"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif" fill="#0453F1"><text x="49" y="279" font-size="21" font-weight="700" letter-spacing="1.5">PROFE TOLOCKA</text><path d="M268 272H842" stroke="#0453F1" stroke-width="2"/><text x="1150" y="279" text-anchor="end" font-size="18">www.profetolocka.com.ar</text></g>
+</svg>
