@@ -1,0 +1,10 @@
+# Local development and secrets
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.vscode/
+.pio/
+.DS_Store
+Thumbs.db
